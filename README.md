@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating my own apps.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on inventory apps
-- 📫 How to reach me ...
+- 📫 I can be reached via email
 
 <!---
 fashonista/fashonista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
